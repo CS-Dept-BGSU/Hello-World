@@ -1,2 +1,2 @@
 # Hello-World
-Sample Kotlin program for "Hello-World" output
+This is a simple Hello World app, which is implemented in Kotlin.
